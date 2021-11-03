@@ -1,0 +1,13 @@
+/Users/wemabank/Projects/bankTellerApp/bankTellerApp/bin/Debug/netcoreapp3.1/bankTellerApp.deps.json
+/Users/wemabank/Projects/bankTellerApp/bankTellerApp/bin/Debug/netcoreapp3.1/bankTellerApp.runtimeconfig.json
+/Users/wemabank/Projects/bankTellerApp/bankTellerApp/bin/Debug/netcoreapp3.1/bankTellerApp.runtimeconfig.dev.json
+/Users/wemabank/Projects/bankTellerApp/bankTellerApp/bin/Debug/netcoreapp3.1/bankTellerApp.dll
+/Users/wemabank/Projects/bankTellerApp/bankTellerApp/bin/Debug/netcoreapp3.1/bankTellerApp.pdb
+/Users/wemabank/Projects/bankTellerApp/bankTellerApp/obj/Debug/netcoreapp3.1/bankTellerApp.csproj.AssemblyReference.cache
+/Users/wemabank/Projects/bankTellerApp/bankTellerApp/obj/Debug/netcoreapp3.1/bankTellerApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wemabank/Projects/bankTellerApp/bankTellerApp/obj/Debug/netcoreapp3.1/bankTellerApp.AssemblyInfoInputs.cache
+/Users/wemabank/Projects/bankTellerApp/bankTellerApp/obj/Debug/netcoreapp3.1/bankTellerApp.AssemblyInfo.cs
+/Users/wemabank/Projects/bankTellerApp/bankTellerApp/obj/Debug/netcoreapp3.1/bankTellerApp.csproj.CoreCompileInputs.cache
+/Users/wemabank/Projects/bankTellerApp/bankTellerApp/obj/Debug/netcoreapp3.1/bankTellerApp.dll
+/Users/wemabank/Projects/bankTellerApp/bankTellerApp/obj/Debug/netcoreapp3.1/bankTellerApp.pdb
+/Users/wemabank/Projects/bankTellerApp/bankTellerApp/obj/Debug/netcoreapp3.1/bankTellerApp.genruntimeconfig.cache
