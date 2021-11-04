@@ -102,7 +102,7 @@ namespace bankTellerApp
 
         public void ShowCummulativeSummary()
         {
-            int[] monthDurations = {2, 9 ,12, 24, 60};
+            int[] monthDurations = {6, 9 ,12, 24, 60};
             switch (UserChoice)
             {
                 case "savings":
