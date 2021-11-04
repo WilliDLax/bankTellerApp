@@ -82,7 +82,7 @@ namespace bankTellerApp
 
             for (int i = 0; i < month; i++)
             {
-                interest = ((rate / 100) * currentAmount);
+                interest = (rate * currentAmount);
                 interest = interest - (vat * interest);
                 currentAmount = currentAmount + interest;
             }
@@ -102,7 +102,7 @@ namespace bankTellerApp
 
         public void ShowCummulativeSummary()
         {
-            int[] monthDurations = {6, 9 ,12, 24, 60};
+            int[] monthDurations = {2, 9 ,12, 24, 60};
             switch (UserChoice)
             {
                 case "savings":
